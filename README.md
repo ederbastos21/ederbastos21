@@ -1,6 +1,6 @@
 # Dev Web Backend Java | Spring Boot
 
-Olá, meu nome é Eder de Bastos, estudante do 5 periodo do curso de graduação análise e desenvolvimento de sistemas na Unicesumar
+Meu nome é Eder de Bastos, estudante do 5 periodo do curso de graduação análise e desenvolvimento de sistemas na Unicesumar
 
 Sou desenvolvedor web backend Java com o framework springboot. Tenho experiencia em criação de APIs REST, persistencia de dados via JPA Hibernate, autenticação e autorização com spring security e integração com o banco mysql, com uso do docker para padronização de ambiente de execução
 

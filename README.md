@@ -29,6 +29,7 @@ Experiência com JPA/Hibernate, validação de dados, tratamento de exceções e
 ---
 
 ### Atualmente Estudando:
+- Funcionamento interno de abstrações do spring security
 - Spring Security para implementação de autenticação e autorização em APIs REST.
 - JWT para controle de sessão stateless e proteção de endpoints.
 - Deploy de aplicações Spring Boot em ambientes de produção.
